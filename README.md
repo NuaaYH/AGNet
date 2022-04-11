@@ -13,7 +13,7 @@ cv2
 ## Usage
 * Clone this repo into your workstation 
   git clone https://github.com/NuaaYH/AGNet.git
-* The datasets used in this paper can be download from BaiduYun: https://pan.baidu.com/s/1oDOsPZkRisCBzAtoY6SDMA  (code:hl0s)  
+* The datasets used in this paper can be download from BaiduYun: https://pan.baidu.com/s/1jJhD5PzPLlKPOeyd37t98w  (code:1234)  
 * Set the project format as follows:  
   ./AGNet  
   ./Dataset  
@@ -36,6 +36,8 @@ The evaluation code can be available at https://github.com/zyjwuyan/SOD_Evaluati
 
 ## Results
 * The results of ours and the comparison methods in our paper can be download from BaiduYun:  
-https://pan.baidu.com/s/1Vl7maJjQiQVS8VG77t5lLw  (code:arjc)
+链接：https://pan.baidu.com/s/1i3UVMLAsEra3zfiFJ7U0Ig 
+提取码：1234 
 * The pre-trained model can be download from BaiduYun:  
-https://pan.baidu.com/s/1AcQJjKdsk3SWPr2O6i-c0A  (code:fkci)
+链接：https://pan.baidu.com/s/1_yKb5WIPoY1A_0xTkzul0w 
+提取码：1234
