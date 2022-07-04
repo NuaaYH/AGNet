@@ -1,5 +1,5 @@
 # AGNet: Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images
-Code for paper "Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images", 
+Code for ICANN 2022 paper "Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images", 
 by Yuhan Lin, Han Sun, Ningzhong Liu, Yetong Bian, Jun Cen, and Huiyu Zhou
 
 ## Requirement
